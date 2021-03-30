@@ -1,4 +1,4 @@
-# Salvation - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FSALVATION) <a href="/LICENSE"><img src="https://img.shields.io/badge/licencia-MIT-red.svg" alt="licencia" /></a>
+# Salvation - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FSALVATION)
 Yurowm (personaje principal) debe seguir a pie cada una de las misiones para ser incluida al clan Saviours y continuar con el paso a la indipendencia de la galaxia llamada KCM369.
 
 **Nota: Si quieres ver la funcionalidad casi completa del proyecto, [ingresa al video](https://youtu.be/6yIdN17VxDs) que se ha subido a YOUTUBE.
