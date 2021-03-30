@@ -19,6 +19,7 @@ Yurowm (personaje principal) debe seguir a pie cada una de las misiones para ser
 - Collapsers
 - Movements
 - Animations
+- Dancing
 - Shots
 - Jummping
 - Running
