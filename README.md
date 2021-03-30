@@ -14,7 +14,7 @@ Yurowm (personaje principal) debe seguir a pie cada una de las misiones para ser
 # Salvation - Descripción del Proyecto
 **El proyecto cuenta con los siguientes elementos:**
 - Sistema de particulas para el efecto lluvia
-- Ambiente estelar
+- Stellar Environment
 - RigidBodies
 - Collapsers
 - Movements
