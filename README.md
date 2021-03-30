@@ -20,7 +20,7 @@ Yurowm (personaje principal) debe seguir a pie cada una de las misiones para ser
 - Sistema de particulas para el efecto lluvia
 - Stellar Environment
 - RigidBodies
-- Collapsers
+- Collisions
 - Movements
 - Animations
 - Dancing
