@@ -33,4 +33,3 @@ Yurowm (personaje principal) debe seguir a pie cada una de las misiones para ser
 
 # Salvation - Ruta del Proyecto
 **https://drive.google.com/drive/folders/1F0E38sM1UEnvC2-9F0vwGQIstR2SyNYQ?usp=sharing**
-- https://drive.google.com/drive/folders/1F0E38sM1UEnvC2-9F0vwGQIstR2SyNYQ?usp=sharing
