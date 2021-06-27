@@ -37,3 +37,12 @@ Yurowm (personaje principal) debe seguir a pie cada una de las misiones para ser
 
 # Salvation - Ruta del Proyecto
 **https://drive.google.com/drive/folders/1F0E38sM1UEnvC2-9F0vwGQIstR2SyNYQ?usp=sharing**
+<a href="https://drive.google.com/drive/folders/1F0E38sM1UEnvC2-9F0vwGQIstR2SyNYQ?usp=sharing">
+    <img alt="Proyecto" title="Full Code" src="https://shields.io/badge/-HAZ%20CLIC%20PARA%20VER%20CODIGO%20COMPLETO-red.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+
+## Participa
+<p align="left">
+ <a href="https://github.com/KeyCuevasMelgarejo/MECA-TYPING_/subscription">
+    <img alt="Follow" title="Dale Me Gusta" src="https://shields.io/badge/-LIKE%20THIS%20REPO-informational.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://ko-fi.com/keycuevasmelgarejo"><img alt="Ko-fi" title="Contribuye" src="https://shields.io/badge/-BUY%20ME%20A%20COFFEE-CC2735.svg?&style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+</p>
