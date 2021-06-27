@@ -15,7 +15,7 @@ Yurowm (personaje principal) debe seguir a pie cada una de las misiones para ser
     <img src="/Demo.png"/>
 </p>
 
-# Salvation - Descripción del Proyecto
+# Descripción del Proyecto
 **El proyecto cuenta con los siguientes elementos:**
 - Sistema de particulas para el efecto lluvia
 - Stellar Environment
@@ -35,7 +35,7 @@ Yurowm (personaje principal) debe seguir a pie cada una de las misiones para ser
 - Collect
 - Missions
 
-# Salvation - Ruta del Proyecto
+# Ruta del Proyecto
 <a href="https://drive.google.com/drive/folders/1F0E38sM1UEnvC2-9F0vwGQIstR2SyNYQ?usp=sharing">
     <img alt="Proyecto" title="Full Code" src="https://shields.io/badge/-HAZ%20CLIC%20PARA%20VER%20CODIGO%20COMPLETO-red.svg?&style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 
