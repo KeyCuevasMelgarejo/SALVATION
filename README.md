@@ -36,9 +36,8 @@ Yurowm (personaje principal) debe seguir a pie cada una de las misiones para ser
 - Missions
 
 # Salvation - Ruta del Proyecto
-**https://drive.google.com/drive/folders/1F0E38sM1UEnvC2-9F0vwGQIstR2SyNYQ?usp=sharing**
 <a href="https://drive.google.com/drive/folders/1F0E38sM1UEnvC2-9F0vwGQIstR2SyNYQ?usp=sharing">
-    <img alt="Proyecto" title="Full Code" src="https://shields.io/badge/-HAZ%20CLIC%20PARA%20VER%20CODIGO%20COMPLETO-red.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+    <img alt="Proyecto" title="Full Code" src="https://shields.io/badge/-HAZ%20CLIC%20PARA%20VER%20CODIGO%20COMPLETO-red.svg?&style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 
 ## Participa
 <p align="left">
