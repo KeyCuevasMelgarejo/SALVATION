@@ -3,9 +3,9 @@
 # El enlace está casi al final de este archivo.
 ```
 # Salvation - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FSALVATION)
-Yurowm (personaje principal) debe seguir a pie cada una de las misiones para ser incluida al clan Saviours y continuar con el paso a la indipendencia de la galaxia llamada KCM369.
-
-**Nota: Si quieres ver la funcionalidad casi completa del proyecto, [ingresa al video](https://youtu.be/0EdC8cvoKFI) que se ha subido a YOUTUBE.
+<a href="https://mecatyping.netlify.app/">
+ <img alt="Demo" title="Demo Button" src="https://shields.io/badge/-HAZ%20CLIC%20PARA%20VER%20LA%20DEMO-red.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
+</a>
 
 <p align="center"> 
     <a href="https://youtu.be/0EdC8cvoKFI"><img src="https://img.shields.io/youtube/views/0EdC8cvoKFI?label=Reproducciones&style=social"/></a>
@@ -15,7 +15,8 @@ Yurowm (personaje principal) debe seguir a pie cada una de las misiones para ser
     <img src="/Demo.png"/>
 </p>
 
-# Descripción del Proyecto
+# Salvation - Descripción
+Yurowm (personaje principal) debe seguir a pie cada una de las misiones para ser incluida al clan Saviours y continuar con el paso a la indipendencia de la galaxia llamada KCM369.
 **El proyecto cuenta con los siguientes elementos:**
 - Sistema de particulas para el efecto lluvia
 - Stellar Environment
