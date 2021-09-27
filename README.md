@@ -4,12 +4,12 @@
 ```
 # Salvation - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FSALVATION)
 <p align="center"> 
-    <a href="https://youtu.be/0EdC8cvoKFI"><img src="https://img.shields.io/youtube/views/0EdC8cvoKFI?label=Reproducciones&style=social"/></a>
+    <a href="https://youtu.be/0EdC8cvoKFI" target="_blank"><img src="https://img.shields.io/youtube/views/0EdC8cvoKFI?label=Reproducciones&style=social"/></a>
 </p>
 
 **Instrucciones para la demo:** Para los movimientos direccionales usa las teclas **A W S D**, para saltar usa la tecla **Espacio** y para disparar haz **Clic Derecho**. En caso de darle **Run Game** y no se visualice el juego, pruebe en otro navegador.
 
-<a href="https://keycuevasmelgarejo.itch.io/salvation">
+<a href="https://keycuevasmelgarejo.itch.io/salvation" target="_blank">
  <img alt="Demo" title="Demo Button" src="https://shields.io/badge/-HAZ%20CLIC%20PARA%20VER%20LA%20DEMO-red.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 </a>
 
