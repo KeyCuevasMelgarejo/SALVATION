@@ -17,7 +17,7 @@
     <img src="/Demo.png"/>
 </p>
 
-# Salvation - Descripción
+# Descripción del Proyecto
 Yurowm (personaje principal) debe seguir a pie cada una de las misiones para ser incluida al clan Saviours y continuar con el paso a la indipendencia de la galaxia llamada KCM369.
 **El proyecto cuenta con los siguientes elementos:**
 - Sistema de particulas para el efecto lluvia
