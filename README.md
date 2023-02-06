@@ -2,7 +2,7 @@
 # El proyecto con el código completo y los assets están alojados en google drive.
 # El enlace está casi al final de este archivo.
 ```
-# Salvation - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FSALVATION)
+# Salvation - Demo
 <p align="center"> 
     <a href="https://youtu.be/0EdC8cvoKFI" target="_blank"><img src="https://img.shields.io/youtube/views/0EdC8cvoKFI?label=Reproducciones&style=social"/></a>
 </p>
